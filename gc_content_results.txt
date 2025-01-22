@@ -1,0 +1,10 @@
+>OM938458.1 UNVERIFIED: Bemisia tabaci isolate WF-21 cytochrome oxidase subunit 1-like (COI) gene, partial sequence; mitochondrial: 33.00%
+>OM938457.1 UNVERIFIED: Bemisia tabaci isolate wf-10 cytochrome oxidase subunit 1-like (COI) gene, partial sequence; mitochondrial: 32.00%
+>MN989602.1 Bemisia tabaci isolate SMW-4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 32.00%
+>MN989601.1 Bemisia tabaci isolate SMW-3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 32.00%
+>MN989600.1 Bemisia tabaci isolate SMW-30 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 32.00%
+>MN989599.1 Bemisia tabaci isolate SMW-28 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 33.00%
+>MN989598.1 Bemisia tabaci isolate SMW-12 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 33.00%
+>MN989597.1 Bemisia tabaci isolate SMW-10 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 33.00%
+>MN989596.1 Bemisia tabaci isolate SMW-9 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 32.00%
+>MN989595.1 Bemisia tabaci isolate SMW-25 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial: 33.00%
